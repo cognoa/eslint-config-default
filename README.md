@@ -13,7 +13,7 @@ Then put this in .eslintrc:
 'use strict';
 
 module.exports = {
-    'extends': '@hughescr/eslint-config-default',
+    'extends': '@cognoa/eslint-config-default',
 };
 ```
 

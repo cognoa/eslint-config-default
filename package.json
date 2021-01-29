@@ -1,5 +1,5 @@
 {
-  "name": "@hughescr/eslint-config-default",
+  "name": "@cognoa/eslint-config-default",
   "publishConfig": {
     "access": "public"
   },
@@ -8,7 +8,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/hughescr/eslint-config-default.git"
+    "url": "git://github.com/cognoa/eslint-config-default.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
